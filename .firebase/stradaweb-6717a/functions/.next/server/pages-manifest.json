@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/About": "pages/About.html",
+  "/Contact": "pages/Contact.html",
+  "/api/BlogData": "pages/api/BlogData.js",
+  "/api/ProductData": "pages/api/ProductData.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blog/[id]": "pages/blog/[id].html",
+  "/blog": "pages/blog.html",
+  "/": "pages/index.html",
+  "/product/[proid]": "pages/product/[proid].html",
+  "/product": "pages/product.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
